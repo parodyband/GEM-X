@@ -27,6 +27,15 @@
   <sub>2D Keypoint Overlay &nbsp;|&nbsp; In-Camera Mesh &nbsp;|&nbsp; Global Mesh &nbsp;|&nbsp; Retargeted G1 Motion</sub>
 </p>
 
+> **This fork adds [GEM-X Live for Maya](integrations/maya/README.md):** live
+> webcam/video motion capture streamed onto any Maya skeleton, with joint
+> mapping, masking and take recording. It runs on
+> [gem-x.cpp](https://github.com/parodyband/gem-x.cpp) (C++/Vulkan) at ~25
+> poses/s. To install on Windows with Maya 2025+, paste into PowerShell:
+>
+> ```powershell
+> irm https://github.com/parodyband/GEM-X/releases/latest/download/install.ps1 | iex
+> ```
 
 ## 📰 News
 

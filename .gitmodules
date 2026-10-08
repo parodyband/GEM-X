@@ -7,3 +7,6 @@
 [submodule "third_party/soma-retargeter"]
 	path = third_party/soma-retargeter
 	url = git@github.com:NVIDIA/soma-retargeter.git
+[submodule "third_party/gem-x.cpp"]
+	path = third_party/gem-x.cpp
+	url = https://github.com/parodyband/gem-x.cpp.git
